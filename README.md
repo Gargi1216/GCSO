@@ -1,2 +1,2 @@
-# GCSO
-Made on Visual Code Studio. Testing deformation of different cars to ensure safety of passengers.
+# p5.play-boilerplate
+Boiler plate for p5.play
